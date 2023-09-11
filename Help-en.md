@@ -48,6 +48,6 @@ App has provided a widget for ease of VPN Connect. To enable it, visit Launcher 
 Trojan Servers can get a good speed compared to other servers .
 The lower the PING, the higher the speed , and you can check the PING by clicking the status label.
 By selecting the All in One package, you can connect Free Internet VPN to many packages.
-☘️ Join the @AlphaV2ray Telegram Channel to know about the latest updates of the app. Join @VPN_Stock Telegram Channel to know details about Free Internet . Join the [@Alpha_V2ray](https://t.me/@AlphaV2ray) community to discuss issues about the app and VPN . Use [@AlphaV2rayBOT](https://t.me/AlphaV2rayBOT) to create Config Files .
+☘️ Join the @AlphaV2ray Telegram Channel to know about the latest updates of the app. Join @VPN_Stock Telegram Channel to know details about Free Internet . Join the [@Alpha_V2ray](https://t.me/AlphaV2ray) community to discuss issues about the app and VPN . Use [@AlphaV2rayBOT](https://t.me/AlphaV2rayBOT) to create Config Files .
 
 🤝 Tell us your opinion about the app. Tell us about new features you want to add, we value your opinion. Thank you for using our App. Don't forget to share the App with your friends. Our aim is to provide you with many valuable Apps and Projects in the future. Join us with all this [🔥 Single Developers </>](https://t.me/SinglDevelopers)
