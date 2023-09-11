@@ -1,5 +1,5 @@
 ## 🌷 Hello!!! Welcome to Alpha V2ray 🤗
-<img src="https://telegra.ph/file/559a0915a1f07b7273fd0.png" width="10%" >
+<img src="https://telegra.ph/file/559a0915a1f07b7273fd0.png" width="100%" >
 
 
 🙋‍♂️ Now let's see how to use this app and how to use this app to get free internet. You can use this app in several ways.
