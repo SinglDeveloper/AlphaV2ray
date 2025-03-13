@@ -1,3 +1,17 @@
+## 📢 Fix for Auto Disconnect Issue ✅
+
+We’ve noticed that some users are experiencing auto disconnection issues, especially when using YouTube or Chrome. We’ve found a simple fix for this issue!
+
+🔧 Follow these steps to resolve it:
+1. Turn off the VPN.
+2. Go to App Settings.
+3. Turn off the "Enable Sniffing" option.
+4. Reconnect the VPN.
+
+✅ After doing this, everything should work normally again!
+
+<img src="https://github.com/user-attachments/assets/2c0c469d-a9e5-4e14-9f14-2447c9b2393e" width="100%" alt="Alphav2rayFix">
+
 ## 🌷 Hello!!! Welcome to Alpha V2ray 🤗
 <img src="https://telegra.ph/file/559a0915a1f07b7273fd0.png" width="100%" >
 
